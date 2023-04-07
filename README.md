@@ -14,7 +14,7 @@ The Stacks Explorer is built with [React](https://reactjs.org/), [next.js](https
 
 To run the explorer locally, first [clone this repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-Next let's make sure you have the tools to install the projects dependencies:
+Next let's make sure you have the tools to install the project's dependencies:
 
 1. Install [NodeJS](https://nodejs.dev/) that includes `npm`
 1. Install [Yarn](https://yarnpkg.com/)
